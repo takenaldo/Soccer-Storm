@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97269afb30aa84742ae3f3342603618a, type: 3}
+  m_Name: AssetTable_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 66882f77ad401aa428bc5e81b6abf754, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 113041289216
+    m_Localized: 5093c8ef293cd8441980254b0be7ca93
+    m_Metadata:
+      m_Items: []
+  - m_Id: 352322417405952
+    m_Localized: 894a8bb77ef787749933324ce9f0efe2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 536346616213504
+    m_Localized: 8cf68f6c675868f40b031fff352df38b
+    m_Metadata:
+      m_Items: []
+  - m_Id: 537502662864896
+    m_Localized: b8a0ca335c38e7c4aa5ceeb30032d03c
+    m_Metadata:
+      m_Items: []
+  - m_Id: 550091564331008
+    m_Localized: 0941a78f0a24f9e45bc50d6692c3682b
+    m_Metadata:
+      m_Items: []
+  - m_Id: 550858362793984
+    m_Localized: 9d945656e4535b0478ee918576aed2b1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 551186634190848
+    m_Localized: 248ce2378d40dc943b2c78a74ebf2bf7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 551535382179840
+    m_Localized: f5656b3a759188a4a865252336685973
+    m_Metadata:
+      m_Items: []
+  - m_Id: 551933744590848
+    m_Localized: 1e4772960470c8643b6c83beb3a0a516
+    m_Metadata:
+      m_Items: []
+  - m_Id: 553363868037120
+    m_Localized: e03e3c8a9f766864f82e118bfca69f1c
+    m_Metadata:
+      m_Items: []
+  - m_Id: 353219050549248
+    m_Localized: 3c7d38ee4de2cdb46844fe263fe69f65
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1443058055458816
+    m_Localized: 079a42bb2186ca04686df52b2fe5fdf5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1444302484484096
+    m_Localized: 79f9085dc538fa4429b64ce4e6823436
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

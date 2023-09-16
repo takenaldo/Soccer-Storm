@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Russian (ru)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-Russian (ru)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 1e0482ca8d4d87a4cbde453c9fde6597
+  m_SerializeEntries:
+  - m_GUID: 3a4c6b5580d932c41a1c8e78a853b447
+    m_Address: Group 7
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: 1301995d04edebc47bb840a6dd9bbdbf
+    m_Address: Group 7 (5)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: 400ed2b63adcc2d40896155071c32def
+    m_Address: main_menu_ru
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: 866998bb2e2cf5443b8c55bafb0cd767
+    m_Address: GameOver_ru
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: 62a8215e507bf7041a22f267dbe53ded
+    m_Address: pause_ru
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: ab9e4e05f0d49854f98aea6f139a9ff5
+    m_Address: "\u043D\u0430\u0441\u0442\u0440\u043E\u0439\u043A\u0438"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: 8594f3a7c5f4fca459590120efb33869
+    m_Address: sound_ru
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: 9bc179b8ac3f6014aa637f123f6d26df
+    m_Address: "\u0432\u0438\u0431\u0440\u0430\u0446\u0438\u044F"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: 2bb4269c4893ff24d9f6d557f4dda4c1
+    m_Address: language_ru
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: 49fb3526cf8e9c74aa0f7c6f5de40eaf
+    m_Address: back_ru
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: 88c5d02223cfe47459674b74365cb062
+    m_Address: how_to_play_bg_ru
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: 67b90a18266ec5c4ab289b0ed57c8967
+    m_Address: settings_ru 1
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: f76b4840be1f45e48b4f82a2eb5734ff
+    m_Address: how_to_play_tu
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 327fee82eee387347881f7237887dc5e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: c21db76b5ddd15f45ac6f2041d823fd4, type: 2}
+    - {fileID: 11400000, guid: b2e8027b46ecc354fb6b3b51d636bb47, type: 2}
